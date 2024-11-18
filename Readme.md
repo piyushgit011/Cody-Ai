@@ -1,4 +1,4 @@
-<h1 align="center">Multilingual Compiler</h1>
+<h1 align="center">Cody Ai</h1>
 
 <h2 align=center>Project Admins</h2> 
 
